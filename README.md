@@ -2,6 +2,8 @@
 
 Este é um sistema bancário simples desenvolvido em Python, que permite a criação de clientes e contas correntes, bem como a realização de transações como depósitos e saques. O sistema também mantém um histórico de todas as transações realizadas.
 
+![Demonstração do Sistema Bancario ](https://github.com/SamilMoret/Sistema_Bancario_3/blob/main/Sistema_Bancario_3_vi.gif)
+
 ## 🚀 Funcionalidades
 
 - 📋 **Criar Cliente**: Registra um cliente com nome, CPF e outros dados pessoais.
